@@ -1,0 +1,10 @@
+198.23.239.134:6540:vcpzmpkb:eeqxa3pq3bgd
+207.244.217.165:6712:vcpzmpkb:eeqxa3pq3bgd
+107.172.163.27:6543:vcpzmpkb:eeqxa3pq3bgd
+64.137.42.112:5157:vcpzmpkb:eeqxa3pq3bgd
+173.211.0.148:6641:vcpzmpkb:eeqxa3pq3bgd
+161.123.152.115:6360:vcpzmpkb:eeqxa3pq3bgd
+167.160.180.203:6754:vcpzmpkb:eeqxa3pq3bgd
+154.36.110.199:6853:vcpzmpkb:eeqxa3pq3bgd
+173.0.9.70:5653:vcpzmpkb:eeqxa3pq3bgd
+173.0.9.209:5792:vcpzmpkb:eeqxa3pq3bgd
